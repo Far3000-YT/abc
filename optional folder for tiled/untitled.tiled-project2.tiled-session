@@ -1,0 +1,132 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "TX Plant.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "TX Props.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "TX Shadow Plant.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "TX Shadow.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "TX Struct.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Grass.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.5
+        },
+        "TX Tileset Stone Ground.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Wall.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "collision.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grass.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "plant.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "player_spawn.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "props.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "shadow_plant.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "shadows.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "structure.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 5620,
+                "y": 5062
+            }
+        },
+        "wall.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/far30/Documents/abc/map",
+    "last.imagePath": "C:/Users/far30/Documents/abc/images/txt2",
+    "map.height": 200,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 200,
+    "openFiles": [
+        "untitled.tmx",
+        "grass.tsx",
+        "collision.tsx",
+        "player_spawn.tsx",
+        "plant.tsx",
+        "props.tsx",
+        "structure.tsx",
+        "wall.tsx",
+        "shadow_plant.tsx",
+        "shadows.tsx"
+    ],
+    "project": "untitled.tiled-project2.tiled-project",
+    "recentFiles": [
+        "shadows.tsx",
+        "shadow_plant.tsx",
+        "wall.tsx",
+        "structure.tsx",
+        "props.tsx",
+        "plant.tsx",
+        "player_spawn.tsx",
+        "collision.tsx",
+        "grass.tsx",
+        "untitled.tmx",
+        "TX Shadow Plant.tsx",
+        "TX Tileset Wall.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

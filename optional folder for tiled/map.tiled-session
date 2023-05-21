@@ -1,0 +1,96 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Sans titre(1).tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Sans titre.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dragon.tsx": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "floor 1.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "floor 2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floor 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floor 4.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "floor 5.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "floor 6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "foor 3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "optional folder for tiled/untitled.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1806.6666666666665,
+                "y": 1723.3333333333333
+            }
+        },
+        "player.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "shadows 2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "shadows.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "troll.tsx": {
+            "scaleInDock": 11,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/far30/Documents/abc/map",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "map.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "optional folder for tiled/untitled.tmx",
+        "Sans titre(1).tsx",
+        "Sans titre.tsx",
+        "dragon.tsx",
+        "shadows 2.tsx",
+        "shadows.tsx",
+        "floor 6.tsx",
+        "floor 5.tsx",
+        "floor 4.tsx",
+        "foor 3.tsx",
+        "floor 2.tsx",
+        "floor 1.tsx"
+    ]
+}
